@@ -1,5 +1,5 @@
 # Weather-App
-Dynamic Weather App
+Real Time Weather App with the help of Node js, Express js and CSS
 
 ![demo2](https://user-images.githubusercontent.com/53315283/143880979-36cc5f6c-8f0f-4281-9cd0-30237e4ae9d4.PNG)
 
